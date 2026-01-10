@@ -1,2 +1,8 @@
 
-Welcome to cloud
+Welcome to cloud 
+
+aws
+
+azure
+
+gcp
